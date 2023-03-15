@@ -22,4 +22,4 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           push: true
-          tage: nettivastaava/express-app:latest
+          tags: nettivastaava/express-app:latest
