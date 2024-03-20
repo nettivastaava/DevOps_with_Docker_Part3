@@ -1,4 +1,4 @@
-## ex 3.1
+## ex 3.1 and 3.2
 
 express app
 
